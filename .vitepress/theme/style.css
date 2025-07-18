@@ -1,0 +1,18 @@
+:root {
+  --vp-c-brand: #007acc; /* 主色调 */
+  --vp-font-family-base: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #f7f8fa;
+  font-family: var(--vp-font-family-base);
+}
+
+h1, h2 {
+  color: #333;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 100%;
+}
