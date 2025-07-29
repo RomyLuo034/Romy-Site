@@ -1,7 +1,6 @@
 # Romy Luo
 
 
----
 
 <div class="feature-grid">
 
