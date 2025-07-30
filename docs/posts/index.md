@@ -27,8 +27,8 @@
 
 **🌐 抓取多源新闻**
 - 通过 **HTTP Request 节点** 从国内外5个财经新闻源抓取最新新闻内容：
-- **Bloomberg、 CNBC** 官方 RSS feed
-- **36氪、财联社、同花顺 7×24 实时快讯** RSSHub 实例
+- [**Bloomberg**](https://feeds.bloomberg.com/markets/news.rss)、 [**CNBC**](https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362) 官方 RSS feed
+- **36氪**、**财联社**、**同花顺 7×24 实时快讯** [RSSHub](https://docs.rsshub.app/zh/guide/) 路由
 
 
 **🧹 内容清洗与结构化**
