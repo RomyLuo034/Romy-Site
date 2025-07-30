@@ -5,7 +5,7 @@
 ![美股财报流程图](/earnings/n8n_incomestatement.png)
 
 
-👉 [点击跳转美股公司财报分析](/earnings/catalogue/)
+<a class="post-link" href="/earnings/catalogue/">👉 点击跳转美股公司财报分析</a>
 
 
 ## 📌 它是什么？
