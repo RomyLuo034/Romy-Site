@@ -41,8 +41,8 @@
 - 使用 [Sankeyart](https://www.sankeyart.com/) 一键制作 Sankey 图
 
 **📄 整合财报会议内容**
-- 使用 [OpenBB](https://pro.openbb.co) 调用公司最近的**财报电话会议演讲稿**
-- 调用 OpenBB 内置 AI 功能对会议内容进行中英文翻译与摘要提炼
+- 使用 [**OpenBB**](https://pro.openbb.co) 调用公司最近的**财报电话会议演讲稿**
+- 调用 **OpenBB** 内置 AI 功能对会议内容进行中英文翻译与摘要提炼
 
 
 ## ✅ 它有什么优势？
