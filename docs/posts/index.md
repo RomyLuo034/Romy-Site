@@ -2,7 +2,7 @@
 **基于n8n的自动化工作流**
 
 
-![财经新闻流程图](/posts/n8n_workflow.png)
+![财经新闻流程图](/posts/n8n_posts.png)
 
 
 <a class="post-link" href="/posts/catalogue/">👉 点击跳转每日财经快讯</a>
