@@ -5,7 +5,7 @@
 ![财经新闻流程图](/posts/n8n_workflow.png)
 
 
-👉 [点击跳转每日财经快讯](/posts/catalogue/)
+<a class="post-link" href="/posts/catalogue/">👉 点击跳转每日财经快讯</a>
 
 
 ## 📌 它是什么？
@@ -21,23 +21,23 @@
 ## ⚙️ 它是如何运作的？
 
 
-**🕘 定时触发**
+### 🕘 定时触发
 - 使用 **Schedule Trigger 节点** 北京时间每天上午9：00自动触发整个工作流
 
 
-**🌐 抓取多源新闻**
+### 🌐 抓取多源新闻
 - 通过 **HTTP Request 节点** 从国内外5个财经新闻源抓取最新新闻内容：
 - [**Bloomberg**](https://feeds.bloomberg.com/markets/news.rss)、 [**CNBC**](https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362) 官方 RSS feed
 - **36氪**、**财联社**、**同花顺 7×24 实时快讯** [RSSHub](https://docs.rsshub.app/zh/guide/) 路由
 
 
-**🧹 内容清洗与结构化**
+### 🧹 内容清洗与结构化
 - 使用 **XML 节点** 将原始 XML 格式内容转化成 JSON 格式
 - 使用 **Code 节点** 提取新闻标题、正文、原文链接等字段生成 Markdown 格式文本，并筛选出指定时间段内的内容（如：昨日 9 点至今日 9 点）
 - **Merge** 节点：将 5 条新闻源整合在同一个数据项中以便后续统一处理
 
 
-**🤖 AI 筛选、翻译、总结并成文**
+### 🤖 AI 筛选、翻译、总结并成文
 - 本工作流调用了 **DeepSeek-Reasoner 模型**，通过添加详细的提示词对 Markdown 文本进行以下处理：
 - 翻译英文内容
 - 筛选与财经相关的新闻，如宏观政策、金融市场、公司动态等
@@ -45,7 +45,7 @@
 - 生成财经新闻风格正文，包含标题及 100-200 字左右的摘要内容
 
 
-**📤 邮件推送及发布至个人网站**
+### 📤 邮件推送及发布至个人网站
 - 使用 **Send Email 节点** 自动将生成的新闻快讯发送至订阅用户邮箱
 - 使用 **GitHub（Create/Get/Edit a file）节点** 和 **AI Agent 节点** 自动创建并修改新文档、生成新一条带链接目录，触发Netlify自动部署更新网站内容
 
