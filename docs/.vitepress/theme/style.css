@@ -1,1 +1,50 @@
+/* 主页面 */
+/* 整体布局为网格，每列最小宽度250px，自动换行 */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* 单张卡片样式 */
+.feature-card {
+  background-color: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 12px;           /* 👈 小圆角 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06); /* 柔和阴影 */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* 悬停时卡片微微上浮 */
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* 卡片标题样式 */
+.feature-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+/* 卡片正文文字 */
+.feature-card p {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+/* 卡片内链接按钮 */
+.feature-card a {
+  color: #007acc;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.feature-card a:hover {
+  text-decoration: underline;
+}
 
