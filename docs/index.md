@@ -18,7 +18,7 @@
 
 <div class="feature-card">
   <h3>📊 财报分析</h3>
-  <p>追踪美股上市公司季报发布，聚焦于income statement和电话会议。</p>
+  <p>追踪美股上市公司最新财报发布，聚焦于利润表和电话会议。</p>
   <a href="/earnings/">了解更多 →</a>
 </div>
 
