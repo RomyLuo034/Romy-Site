@@ -71,7 +71,7 @@
 }
 
 .post-link-text {
-  color: #fff;
+  color: #ffffff !important;
   font-weight: bold;
   font-size: 1rem;
   text-decoration: underline;
@@ -103,7 +103,7 @@
 }
 
 .earnings-link-text {
-  color: #fff;
+  color: #ffffff !important;
   font-weight: bold;
   font-size: 1rem;
   text-decoration: underline;
