@@ -9,13 +9,13 @@
 
 .feature-card {
   display: block;
+  text-decoration: none;
+  color: inherit;  
   background-color: #f9f9f9;
   padding: 1.5rem;
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  text-decoration: none;
-  color: inherit;
+  transition: transform 0.3s ease, box-shadow 0.3s ease
 }
 
 .feature-card:hover {
@@ -37,6 +37,17 @@
   margin-bottom: 1rem;
 }
 
+.card-footer {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #007acc;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.card-footer:hover {
+  text-decoration: underline;
+}
 
 
 /* post */
