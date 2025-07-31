@@ -2,12 +2,12 @@
 
 
 ## 2025年7月23日
-- [AT&T Inc.](/earnings/catalogue/T_25Q2)
-- [Alphabet Inc.](/earnings/catalogue/GOOGL_25Q2)
-- [Tesla, Inc.](/earnings/catalogue/TSLA_25Q2)
+- [AT&T Inc. 2025Q2](/earnings/catalogue/T_25Q2)
+- [Alphabet Inc. 2025Q2](/earnings/catalogue/GOOGL_25Q2)
+- [Tesla, Inc. 2025Q2](/earnings/catalogue/TSLA_25Q2)
 
 
 ## 2025年7月24日
-- [American Airlines Group Inc.](/earnings/catalogue/AAL_25Q2)
-- [Intel Corporation](/earnings/catalogue/INTC_25Q2)
-- [Nokia Oyj](/earnings/catalogue/NOK_25Q2)
+- [American Airlines Group Inc. 2025Q2](/earnings/catalogue/AAL_25Q2)
+- [Intel Corporation 2025Q2](/earnings/catalogue/INTC_25Q2)
+- [Nokia Oyj 2025Q2](/earnings/catalogue/NOK_25Q2)
