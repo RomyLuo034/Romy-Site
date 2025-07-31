@@ -63,9 +63,22 @@
   transition: background-color 0.2s ease;
 }
 
+/* 悬停时背景变浅蓝 */
 .post-link:hover {
   background-color: #3399ff;
 }
+
+/* Emoji 不加下划线，右边留一点间距 */
+.post-link .emoji {
+  margin-right: 0.4em;
+  text-decoration: none;
+}
+
+/* 文字部分加下划线 */
+.post-link .link-text {
+  text-decoration: underline;
+}
+
 
 
 
@@ -83,6 +96,18 @@
   transition: background-color 0.2s ease;
 }
 
+/* 悬停时背景变浅蓝 */
 .earnings-link:hover {
   background-color: #3399ff;
+}
+
+/* Emoji 不加下划线，右边留一点间距 */
+.earnings-link .emoji {
+  margin-right: 0.4em;
+  text-decoration: none;
+}
+
+/* 文字部分加下划线 */
+.earnings-link .link-text {
+  text-decoration: underline;
 }
