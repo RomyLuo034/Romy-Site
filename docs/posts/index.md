@@ -5,7 +5,10 @@
 ![财经新闻流程图](/posts/n8n_posts.png)
 
 
-<a class="post-link" href="/posts/catalogue/">👉 点击跳转每日财经快讯</a>
+<a class="earnings-link" href="/earnings/catalogue/">
+  <span class="emoji">👉</span>
+  <span class="link-text">点击跳转每日财经新闻快讯</span>
+</a>
 
 
 ## 📌 它是什么？
