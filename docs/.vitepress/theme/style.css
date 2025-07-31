@@ -71,7 +71,7 @@
 /* Emoji 不加下划线，右边留一点间距 */
 .post-link .emoji {
   margin-right: 0.4em;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* 文字部分加下划线 */
@@ -104,7 +104,7 @@
 /* Emoji 不加下划线，右边留一点间距 */
 .earnings-link .emoji {
   margin-right: 0.4em;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* 文字部分加下划线 */
