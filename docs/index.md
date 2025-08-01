@@ -21,8 +21,8 @@ You can switch to the English version on the top ⬆️
 </div>
 
 <div class="feature-card" onclick="location.href='/work/'">
-  <h3>🗂️ 往年实习作品</h3>
-  <p>往年实习项目的分析报告、数据图表与洞见总结。</p>
+  <h3>🗂️ 其他实习作品</h3>
+  <p>其他实习产出的分析报告、数据图表与洞见总结。</p>
   <a class="card-footer" href="/work/">了解更多 →</a>
 </div>
 
