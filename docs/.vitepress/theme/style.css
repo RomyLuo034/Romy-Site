@@ -50,7 +50,7 @@
 
 
 /* post */
-.post-link-box {
+.posts-link-box {
   display: inline-flex;
   align-items: center;
   padding: 0.5rem 1rem;
@@ -61,16 +61,16 @@
   cursor: pointer;
 }
 
-.post-link-box:hover {
+.posts-link-box:hover {
   background-color: #3399ff;
 }
 
-.post-link-box .emoji {
+.posts-link-box .emoji {
   font-size: 1.1rem;
   margin-right: 0.4em;
 }
 
-.post-link-text {
+.posts-link-text {
   color: #ffffff !important;
   font-weight: bold;
   font-size: 1rem;
