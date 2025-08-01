@@ -37,14 +37,15 @@
 .card-footer {
   display: inline-block;
   margin-top: 1rem;
-  color: #007acc;
+  color: #007acc;       
   font-weight: 500;
   font-size: 0.95rem;
-  text-decoration: none;
+  text-decoration: underline;
+  cursor: pointer; 
 }
 
 .card-footer:hover {
-  text-decoration: underline;
+  color: #005fa3; 
 }
 
 
