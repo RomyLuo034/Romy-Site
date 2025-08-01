@@ -20,7 +20,7 @@
   <span class="card-footer">Learn More →</span>
 </div>
 
-<div class="feature-card" onclick="location.href='/en/work/'">
+<div class="feature-card" onclick="location.href='/en/projects/'">
   <h3>🗂️ Course Projects</h3>
   <p>Selected course assignments and academic papers, including data analysis projects and research reports.</p>
   <span class="card-footer">Learn More →</span>
