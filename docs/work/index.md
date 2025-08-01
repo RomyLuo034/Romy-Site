@@ -7,7 +7,7 @@
   <div class="feature-card" onclick="location.href='/industry.pdf'">
     <h3>📄 山岳型景区盈利能力分析</h3>
     <p>深圳市达晨创业投资有限公司 | 风控部实习生</p>
-    <p><strong>行业现状、市场趋势与游客消费分析，系统研究我国山岳型景区的盈利能力。<strong></p>
+    <p><strong>结合行业现状、市场趋势和游客消费行为，系统研究我国山岳型景区的盈利能力。</strong></p>
     <a class="card-footer">查看报告 →</a>
   </div>
 
