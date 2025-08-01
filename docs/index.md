@@ -1,5 +1,5 @@
 # Romy Luo
-
+You can switch to the English version on the top ⬆️
 <div class="feature-grid">
 
 <div class="feature-card" onclick="location.href='/resume/'">
