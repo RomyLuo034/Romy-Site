@@ -7,7 +7,7 @@
 
 <div class="posts-link-box">
   <span class="emoji">👉</span>
-  <a class="post-link-text" href="/posts/catalogue/">点击跳转每日财经新闻快讯</a>
+  <a class="posts-link-text" href="/posts/catalogue/">点击跳转每日财经新闻快讯</a>
 </div>
 
 
