@@ -27,7 +27,7 @@ export default {
           { text: 'Home', link: '/en/' },
           { text: 'Resume', link: '/en/resume/' },
           { text: 'Finance News', link: '/en/posts/' },
-          { text: 'Earnings', link: '/en/earnings/' },
+          { text: 'Earnings reports', link: '/en/earnings/' },
           { text: 'Projects', link: '/en/projects/' }
         ]
       }
