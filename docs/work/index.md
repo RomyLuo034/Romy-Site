@@ -4,7 +4,7 @@
 <div class="feature-grid">
 
   <!-- 2026 海南省财金集团 战略研究见习 -->
-  <div class="feature-card" onclick="location.href='/xinshijie.pdf'">
+  <div class="feature-card" onclick="location.href='/macau.pdf'">
     <h3>📄 澳门金融牌照及生态梳理分析</h3>
     <p>海南省财金集团 | 战略研究见习生</p>
     <p><strong>澳门金融生态概括、监管体系、自有特色以及未来机遇</strong></p>
