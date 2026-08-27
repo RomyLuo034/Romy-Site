@@ -1,5 +1,6 @@
 # Business News
 ## 2026年8月
+- [📰 2026-08-27 财经新闻](/posts/catalogue/2026-08-27)
 - [📰 2026-08-26 财经新闻](/posts/catalogue/2026-08-26)
 - [📰 2026-08-24 财经新闻](/posts/catalogue/2026-08-24)
 - [📰 2026-08-21 财经新闻](/posts/catalogue/2026-08-21)
